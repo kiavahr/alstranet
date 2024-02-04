@@ -1,0 +1,7 @@
+[workspace]
+resolver="2"
+
+members = [ 
+    "src/bin/alstranet-execution-node",
+    "src/lib/alstranet-execution"
+]
